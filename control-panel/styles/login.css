@@ -1,0 +1,83 @@
+#login-section {
+	width  : 100%;
+	height : auto;
+}
+
+	#login-container {
+		width              : 350px;
+		height             : 380px;
+		border-radius      : 3px;
+		margin             : auto;
+		margin-top         : 10%;
+		padding            : 20px;
+		position           : relative;
+		background-color   : #eee;
+		box-shadow         : 0 0 30px rgba(0,0,0,.2);
+		-o-box-shadow      : 0 0 30px rgba(0,0,0,.2);
+		-ms-box-shadow     : 0 0 30px rgba(0,0,0,.2);
+		-moz-box-shadow    : 0 0 30px rgba(0,0,0,.2);
+		-webkit-box-shadow : 0 0 30px rgba(0,0,0,.2);
+	}
+
+		.login-logo {
+			width       : auto;
+			height      : auto;
+			padding-top : 15px;
+			text-align  : center;
+		}
+			.login-logo img { width : 80%; }
+
+			.login-logo p {
+				font-size      : 12px;
+				padding        : 0px;
+				margin         : 0px;
+				padding-top    : 10px;
+				text-transform : uppercase;
+			}
+
+		#login-form {
+			float      : left;
+			margin-top : 30px;
+		}
+
+			.input_box {
+				float         : left;
+				width         : 100%;
+				height        : auto;
+				margin-bottom : 10px;
+			}
+
+				label {
+					margin-top     : 10px;
+					float          : left;
+					clear          : left;
+					font-size      : 12px;
+					text-transform : uppercase;
+					text-align     : left;
+					width          : 100%;
+					margin         : 0 auto;
+					padding-bottom : 5px;
+				}
+
+				.login-input {
+					float         : left;
+					clear         : left;
+					width         : 100%;
+					height        : 40px;
+					background    : #fff;
+					border        : 1px solid rgba(0,0,0,0.3);
+					padding       : 0 10px;
+					color         : #717171;
+					margin-bottom : 10px;
+					font-size     : 14px;
+				}
+
+			.login-warning {
+				float       : left;
+				width       : 100%;
+				height      : 30px;
+				line-height : 30px;
+				color       : #ee2325;
+				font-size   : 12px;
+				text-align  : center;
+			}

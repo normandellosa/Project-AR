@@ -1,0 +1,103 @@
+[16-Mar-2018 04:01:54 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/allrpzhi/public_html/control-panel/dao/accountDao.php on line 9
+[16-Mar-2018 04:01:59 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/allrpzhi/public_html/control-panel/dao/accountDao.php on line 9
+[16-Mar-2018 04:02:23 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/allrpzhi/public_html/control-panel/dao/accountDao.php on line 9
+[16-Mar-2018 04:02:40 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/allrpzhi/public_html/control-panel/dao/accountDao.php on line 9
+[16-Mar-2018 04:02:41 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/allrpzhi/public_html/control-panel/dao/accountDao.php on line 9
+[16-Mar-2018 22:03:55 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/allrpzhi/public_html/control-panel/dao/accountDao.php on line 9
+[16-Mar-2018 22:03:56 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/allrpzhi/public_html/control-panel/dao/accountDao.php on line 9
+[16-Mar-2018 22:03:57 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/allrpzhi/public_html/control-panel/dao/accountDao.php on line 9
+[16-Mar-2018 22:03:58 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/allrpzhi/public_html/control-panel/dao/accountDao.php on line 9
+[16-Mar-2018 22:04:01 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/allrpzhi/public_html/control-panel/dao/accountDao.php on line 9
+[16-Mar-2018 22:04:02 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/allrpzhi/public_html/control-panel/dao/accountDao.php on line 9
+[16-Mar-2018 22:04:03 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/allrpzhi/public_html/control-panel/dao/accountDao.php on line 9
+[16-Mar-2018 22:04:04 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/allrpzhi/public_html/control-panel/dao/accountDao.php on line 9
+[16-Mar-2018 22:17:00 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/allrpzhi/public_html/control-panel/dao/accountDao.php on line 9
+[17-Mar-2018 10:28:14 Asia/Manila] PHP Warning:  unlink(../../uploads/): Is a directory in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 292
+[17-Mar-2018 10:28:14 Asia/Manila] PHP Notice:  Undefined variable: carousel_feature_alt in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 304
+[17-Mar-2018 10:28:14 Asia/Manila] PHP Notice:  Undefined variable: rno_id in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 304
+[20-Mar-2018 08:09:18 Asia/Manila] PHP Notice:  Undefined variable: rno_title in /home/allrpzhi/public_html/control-panel/controller/controller.rewards.php on line 230
+[20-Mar-2018 08:09:25 Asia/Manila] PHP Notice:  Undefined variable: rno_title in /home/allrpzhi/public_html/control-panel/controller/controller.rewards.php on line 230
+[20-Mar-2018 08:09:29 Asia/Manila] PHP Notice:  Undefined variable: rno_title in /home/allrpzhi/public_html/control-panel/controller/controller.rewards.php on line 230
+[20-Mar-2018 08:10:35 Asia/Manila] PHP Notice:  Undefined variable: rno_title in /home/allrpzhi/public_html/control-panel/controller/controller.rewards.php on line 230
+[20-Mar-2018 08:14:07 Asia/Manila] PHP Notice:  Undefined variable: rno_title in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 248
+[20-Mar-2018 08:14:32 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[20-Mar-2018 08:14:32 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[20-Mar-2018 08:15:00 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[20-Mar-2018 08:15:00 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[20-Mar-2018 08:15:28 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[20-Mar-2018 08:15:28 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[20-Mar-2018 08:15:42 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[20-Mar-2018 08:15:42 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[28-Mar-2018 16:18:41 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[28-Mar-2018 16:34:37 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[28-Mar-2018 16:39:17 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[28-Mar-2018 16:39:25 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[28-Mar-2018 16:41:16 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[28-Mar-2018 16:41:21 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[28-Mar-2018 16:45:59 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[28-Mar-2018 16:45:59 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[28-Mar-2018 16:57:50 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 33
+[28-Mar-2018 16:58:51 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[28-Mar-2018 16:58:51 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[28-Mar-2018 18:22:26 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[28-Mar-2018 18:22:26 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[28-Mar-2018 18:23:16 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[28-Mar-2018 18:23:16 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[03-Apr-2018 12:56:55 Asia/Manila] PHP Notice:  Undefined variable: carousel_feature_alt in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 304
+[03-Apr-2018 12:56:55 Asia/Manila] PHP Notice:  Undefined variable: rno_id in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 304
+[03-Apr-2018 13:01:37 Asia/Manila] PHP Notice:  Undefined variable: carousel_new in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 259
+[03-Apr-2018 13:01:37 Asia/Manila] PHP Notice:  Undefined variable: carousel_thumb_new in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 259
+[03-Apr-2018 13:02:00 Asia/Manila] PHP Notice:  Undefined offset: 1 in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 163
+[03-Apr-2018 13:03:33 Asia/Manila] PHP Notice:  Undefined variable: carousel_feature_alt in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 304
+[03-Apr-2018 13:03:33 Asia/Manila] PHP Notice:  Undefined variable: rno_id in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 304
+[03-Apr-2018 13:03:38 Asia/Manila] PHP Notice:  Undefined variable: carousel_feature_alt in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 304
+[03-Apr-2018 13:03:38 Asia/Manila] PHP Notice:  Undefined variable: rno_id in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 304
+[03-Apr-2018 13:06:16 Asia/Manila] PHP Notice:  Undefined variable: carousel_feature_alt in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 304
+[03-Apr-2018 13:06:16 Asia/Manila] PHP Notice:  Undefined variable: rno_id in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 304
+[03-Apr-2018 13:15:04 Asia/Manila] PHP Notice:  Undefined variable: rno_title in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 248
+[03-Apr-2018 13:16:03 Asia/Manila] PHP Notice:  Undefined variable: rno_title in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 248
+[04-Apr-2018 12:09:58 Asia/Manila] PHP Notice:  Undefined index: carousel_status in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 149
+[04-Apr-2018 12:09:58 Asia/Manila] PHP Notice:  Undefined index: carousel_id in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 153
+[04-Apr-2018 12:09:58 Asia/Manila] PHP Notice:  Undefined index: carousel_url in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 155
+[04-Apr-2018 12:09:58 Asia/Manila] PHP Notice:  Undefined index: carousel_target in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 156
+[04-Apr-2018 12:09:58 Asia/Manila] PHP Notice:  Undefined index: carousel_alt in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 158
+[04-Apr-2018 12:09:58 Asia/Manila] PHP Notice:  Undefined index: carousel_image1 in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 160
+[04-Apr-2018 12:09:58 Asia/Manila] PHP Notice:  Undefined index: carousel_image1 in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 162
+[04-Apr-2018 12:09:58 Asia/Manila] PHP Notice:  Undefined offset: 1 in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 163
+[04-Apr-2018 12:09:58 Asia/Manila] PHP Notice:  Undefined index: carousel_image2 in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 165
+[04-Apr-2018 12:09:58 Asia/Manila] PHP Notice:  Undefined index: account_id in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 267
+[04-Apr-2018 14:02:25 Asia/Manila] PHP Notice:  Undefined index: rno_title in /home/allrpzhi/public_html/control-panel/controller/controller.rewards.php on line 30
+[04-Apr-2018 14:02:25 Asia/Manila] PHP Notice:  Undefined index: rno_subtitle in /home/allrpzhi/public_html/control-panel/controller/controller.rewards.php on line 31
+[04-Apr-2018 14:02:25 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.rewards.php on line 32
+[04-Apr-2018 14:02:25 Asia/Manila] PHP Notice:  Undefined index: rno_url in /home/allrpzhi/public_html/control-panel/controller/controller.rewards.php on line 33
+[04-Apr-2018 14:02:25 Asia/Manila] PHP Notice:  Undefined index: rno_category_fk in /home/allrpzhi/public_html/control-panel/controller/controller.rewards.php on line 35
+[04-Apr-2018 14:02:25 Asia/Manila] PHP Notice:  Undefined index: rno_image in /home/allrpzhi/public_html/control-panel/controller/controller.rewards.php on line 38
+[04-Apr-2018 17:40:47 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 33
+[04-Apr-2018 18:22:32 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[04-Apr-2018 18:22:39 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[05-Apr-2018 16:55:15 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.rewards.php on line 117
+[05-Apr-2018 17:01:02 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[05-Apr-2018 17:01:02 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[05-Apr-2018 17:08:08 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[05-Apr-2018 17:08:08 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[05-Apr-2018 17:24:39 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[05-Apr-2018 17:24:39 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[05-Apr-2018 17:25:01 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[05-Apr-2018 17:25:01 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[05-Apr-2018 17:25:50 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[05-Apr-2018 17:25:50 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[05-Apr-2018 17:26:13 Asia/Manila] PHP Strict Standards:  Only variables should be passed by reference in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 133
+[05-Apr-2018 17:26:13 Asia/Manila] PHP Notice:  Undefined index: rno_details in /home/allrpzhi/public_html/control-panel/controller/controller.newsevents.php on line 190
+[05-Apr-2018 17:37:57 Asia/Manila] PHP Notice:  Undefined index: rno_category_fk in /home/allrpzhi/public_html/control-panel/controller/controller.partners.php on line 17
+[05-Apr-2018 18:01:56 Asia/Manila] PHP Notice:  Undefined index: rno_category_fk in /home/allrpzhi/public_html/control-panel/controller/controller.partners.php on line 17
+[05-Apr-2018 18:02:54 Asia/Manila] PHP Notice:  Undefined index: rno_category_fk in /home/allrpzhi/public_html/control-panel/controller/controller.partners.php on line 17
+[05-Apr-2018 18:18:39 Asia/Manila] PHP Notice:  Undefined index: rno_category_fk in /home/allrpzhi/public_html/control-panel/controller/controller.partners.php on line 17
+[20-Apr-2018 11:25:46 Asia/Manila] PHP Notice:  Undefined index: rno_category_fk in /home/allrpzhi/public_html/control-panel/controller/controller.partners.php on line 17
+[20-Apr-2018 13:02:10 Asia/Manila] PHP Notice:  Undefined index: carousel_url in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 18
+[20-Apr-2018 13:02:10 Asia/Manila] PHP Notice:  Undefined index: carousel_target in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 19
+[20-Apr-2018 13:02:10 Asia/Manila] PHP Notice:  Undefined index: carousel_alt in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 21
+[20-Apr-2018 13:02:10 Asia/Manila] PHP Notice:  Undefined index: carousel_image in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 24
+[20-Apr-2018 13:02:11 Asia/Manila] PHP Notice:  Undefined index: carousel_url in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 18
+[20-Apr-2018 13:02:11 Asia/Manila] PHP Notice:  Undefined index: carousel_target in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 19
+[20-Apr-2018 13:02:11 Asia/Manila] PHP Notice:  Undefined index: carousel_alt in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 21
+[20-Apr-2018 13:02:11 Asia/Manila] PHP Notice:  Undefined index: carousel_image in /home/allrpzhi/public_html/control-panel/controller/controller.carousel.php on line 24

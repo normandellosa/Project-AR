@@ -1,0 +1,13 @@
+[16-Mar-2018 03:48:31 America/New_York] PHP Warning:  require_once(dao/carouselDao.php): failed to open stream: No such file or directory in /home/allrpzhi/public_html/index.php on line 2
+[16-Mar-2018 03:48:31 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'dao/carouselDao.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/allrpzhi/public_html/index.php on line 2
+[16-Mar-2018 03:50:10 America/New_York] PHP Warning:  require_once(dao/carouselDao.php): failed to open stream: No such file or directory in /home/allrpzhi/public_html/index.php on line 2
+[16-Mar-2018 03:50:10 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'dao/carouselDao.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/allrpzhi/public_html/index.php on line 2
+[16-Mar-2018 03:51:45 America/New_York] PHP Warning:  include(inc/sticky-header.php): failed to open stream: No such file or directory in /home/allrpzhi/public_html/500-internal-server-error.php on line 22
+[16-Mar-2018 03:51:45 America/New_York] PHP Warning:  include(inc/sticky-header.php): failed to open stream: No such file or directory in /home/allrpzhi/public_html/500-internal-server-error.php on line 22
+[16-Mar-2018 03:51:45 America/New_York] PHP Warning:  include(): Failed opening 'inc/sticky-header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/allrpzhi/public_html/500-internal-server-error.php on line 22
+[16-Mar-2018 03:51:45 America/New_York] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/allrpzhi/public_html/500-internal-server-error.php on line 44
+[16-Mar-2018 03:51:45 America/New_York] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/allrpzhi/public_html/500-internal-server-error.php on line 44
+[16-Mar-2018 03:51:45 America/New_York] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/allrpzhi/public_html/500-internal-server-error.php on line 44
+[20-Mar-2018 08:14:35 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/allrpzhi/public_html/index.php on line 83
+[20-Mar-2018 08:14:38 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/allrpzhi/public_html/index.php on line 83
+[20-Mar-2018 08:14:39 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/allrpzhi/public_html/index.php on line 83
